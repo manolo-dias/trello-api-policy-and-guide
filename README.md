@@ -16,7 +16,7 @@ O bot é **totalmente configurável** e garante que cada equipe possa conectar s
 Entre no nosso link, autorize o aplicativo "Discord Notifications" no Trello. 
 Você será automaticamente redirecionado para adicionar o bot ao seu servidor! 🚀 
 
-### ✅ Acesse [Discord Notifications](https://trello.com/1/authorize?expiration=never&scope=read&response_type=token&key=8eaa8ee5959d02a30c2a0835c85cf2b7&callback_method=fragment&return_url=https://trello.blenddev.com.br/trello/authorize).
+### ✅ Acesse [Discord Notifications](https://trello.com/1/authorize?expiration=never&scope=read&response_type=token&key=8eaa8ee5959d02a30c2a0835c85cf2b7&callback_method=fragment&return_url=https://trello.blenddev.com.br/redirect.html).
 
 
 ---
