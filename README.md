@@ -25,13 +25,33 @@ Você será automaticamente redirecionado para adicionar o bot ao seu servidor! 
 Depois que o bot estiver no seu servidor, basta configurar o board do trello desejado, usando o seguinte comando no canal onde deseja receber as notificações:
 
 ```bash
-/configurar board_url:LINK_DO_SEU_QUADRO
+/set board_url:LINK_DO_SEU_QUADRO
 ```
 
 📌 **O bot automaticamente cria Webhooks e começa a monitorar as mudanças!** 🚀  
 
 ---
 
+## 🛠️ Comandos úteis
+
+### Caso tenha ocorrido alguma falha durante a autorização do Power-Up do Trello (necessária para gerenciar as notificações), ou tenha recusado sem querer, você pode pedir um novo link facilmente rodando "/trello" dentro do seu servidor!
+```bash
+/trello 
+```
+
+### Você pode checar o status da integração com seu servidor rodando "/status". Esse comando vai verificar todos os requisitos e te informar corretamente o que está faltando, caso haja algum erro.
+```bash
+/status 
+```
+
+### Em breve! A Linguagem do bot vai poder ser alterada rodando "/set lang". Atualmente, o comando está registrado, mas ainda não traduzi tudo.
+```bash
+/set lang
+```
+
+
+### Qualquer dúvida ou problema com o bot, não hesite em acionar um dos contatos abaixo. Fico feliz em ajudar! 
+### Também, caso você tenha um site, uma empresa, ou esteja pensando em começar um negócio, não deixe de dar uma "misturada" lá com a [![Blend](https://img.shields.io/badge/Blend-%2382c341.svg?style=for-the-badge)](https://grupoblend.com.br/) e conferir nossos serviços 🚀 💚 (Contato abaixo)
 
 ## 👨‍💻 Sobre o Criador  
 **Manolo Dias**  
